@@ -6,7 +6,7 @@ package Task7;
 
 import java.util.Arrays;
 
-public class task7 {
+public class Task7 {
     public static void main(String[] args) {
         int[] array = { 1, 1, 0, 0, 1, 0, 1, 1, 0, 0 };
         System.out.println("Изначальный массив: " + Arrays.toString(array));
